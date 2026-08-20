@@ -1,5 +1,5 @@
 & {
-    $logPath = "E:\Wuthering Waves\Wuthering Waves Game\Client\Saved\Logs\Client.log"
+    $logPath = "D:\Wuthering Waves\Wuthering Waves Game\Client\Saved\Logs\Client.log"
 
     if (-not (Test-Path $logPath)) {
         Write-Host "未找到 Client.log" -ForegroundColor Red
