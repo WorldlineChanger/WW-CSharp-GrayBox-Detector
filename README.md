@@ -3,7 +3,7 @@
 
 使用方法（仅针对 Windows）：
 
-直接运行仓库中 Detector.ps1 即可，或直接复制内容在 PowerShell 中粘贴使用。
+直接运行仓库中 Detector.ps1 即可，或直接复制内容在 PowerShell 中粘贴并回车。
 
 **原理为解密分析游戏目录内的 Client.log 文件，因此需手动更改第一行中游戏日志的实际位置。**
 
